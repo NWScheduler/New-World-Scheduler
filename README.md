@@ -1,2 +1,2 @@
-# New-World-Scheduler
-See NWScheduler.com
+# New World Scheduler
+Please ee NWScheduler.com
